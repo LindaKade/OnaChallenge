@@ -1,3 +1,3 @@
 # OnaChallenge
-My Ona code challenge solutions
+My Ona code challenge solution
 
