@@ -1,3 +1,3 @@
 # OnaChallenge
-My Ona code challenge solution
+A simple java solution to the Ona code challenge.
 
